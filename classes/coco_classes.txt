@@ -1,0 +1,91 @@
+background
+person
+bicycle
+car
+motorcycle
+airplane
+bus
+train
+truck
+boat
+traffic_light
+fire_hydrant
+unknown (street sign)
+stop_sign
+parking_meter
+bench
+bird
+cat
+dog
+horse
+sheep
+cow
+elephant
+bear
+zebra
+giraffe
+unknown (hat)
+backpack
+umbrella
+unknown (shoe)
+unknown (eye glasses)
+handbag
+tie
+suitcase
+frisbee
+skis
+snowboard
+sports_ball
+kite
+baseball_bat
+baseball_glove
+skateboard
+surfboard
+tennis_racket
+bottle
+unknown (plate)
+wine_glass
+cup
+fork
+knife
+spoon
+bowl
+banana
+apple
+sandwich
+orange
+broccoli
+carrot
+hot_dog
+pizza
+donut
+cake
+chair
+couch
+potted_plant
+bed
+unknown (mirror)
+dining_table
+unknown (window)
+desk
+toilet
+unknown (door)
+tv
+laptop
+mouse
+remote
+keyboard
+cell phone
+microwave
+oven
+toaster
+sink
+refrigerator
+unknown (blender)
+book
+clock
+vase
+scissors
+teddy_bear
+hair_drier
+toothbrush

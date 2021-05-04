@@ -7,7 +7,7 @@
  - vinvl: Detections taken from Microsoft's VinVL (https://arxiv.org/abs/2101.00529)
 
 ### How To Use
- Due to the size of the combined object file (600KB) it must be downloaded from this [Google Drive link](https://drive.google.com/file/d/1XE7_W_PvZTTjkzt-6NUdXqRqxkCyaYk5/view?usp=sharing)
+ Due to the size of the combined object file (628KB) it must be downloaded from this [Google Drive link](https://drive.google.com/file/d/1XE7_W_PvZTTjkzt-6NUdXqRqxkCyaYk5/view?usp=sharing)
  
  The file is stored as a python dictionary with image ids as keys. Demo.py shows how to load and visualise objects tags.
  

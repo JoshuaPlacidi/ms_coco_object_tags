@@ -15,3 +15,5 @@
  Below are some examples of how tags vary from different sources:
  
 ![Baseball Example](https://github.com/JoshuaPlacidi/MS-COCO-Tags/blob/main/examples/baseball_154329.png?raw=true)
+
+![Site Example](https://github.com/JoshuaPlacidi/MS-COCO-Tags/blob/main/examples/site_388347.png?raw=true)

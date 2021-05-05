@@ -2,7 +2,7 @@
  This repo provides convienent object annotation files for the MS-COCO dataset. Bounding boxes, class ids and labels are provided for each image.
  
  Annotations are collected and combined from 3 different sources:
- - coco: MS-COCO ground truths taken directly from https://cocodataset.org/#home
+ - coco: MS-COCO ground truths taken directly from (https://cocodataset.org/#home)
  - vg: Detections generated using a Faster-RCNN trained on visual genome dataset (https://github.com/shilrley6/Faster-R-CNN-with-model-pretrained-on-Visual-Genome)
  - vinvl: Detections taken from Microsoft's VinVL (https://arxiv.org/abs/2101.00529)
 

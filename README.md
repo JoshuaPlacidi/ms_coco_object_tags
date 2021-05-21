@@ -11,7 +11,7 @@
 ### How To Use
  Due to the size of the combined object file (628KB) it must be downloaded from this [Google Drive link](https://drive.google.com/file/d/1XE7_W_PvZTTjkzt-6NUdXqRqxkCyaYk5/view?usp=sharing)
  
- The file is stored as a python dictionary with image ids as keys. Demo.ipynb shows how to load and visualise objects tags.
+ The annotations are stored as a json file that can be easily opened as a python dictionary with image ids as keys. Demo.ipynb shows how to load and visualise objects tags.
  
  ### Examples
  Below are some examples of how tags vary from different sources:
